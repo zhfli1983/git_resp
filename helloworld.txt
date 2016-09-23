@@ -1,2 +1,3 @@
 Hello world
-this is version controller!
+this is distribute version controller!
+this file is modified  once;
